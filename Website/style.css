@@ -1,0 +1,66 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  
+}
+
+.div1 {
+    text-align: center;
+    word-spacing: 15px;
+    
+}
+div a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.first a{
+font-weight: bold;
+text-decoration: none;
+    color: black;
+}
+
+
+.first{
+    line-height: 1%;
+}
+ .p1{
+    font-size: x-small;
+font-weight: bold; }
+
+.side1, .side2, .side3, .side4, .side5{
+    display: block;
+    width: 250px;
+    
+}
+
+.hourspan{
+    color: rgb(0, 177, 177);
+}
+.right1{
+
+    display: flex;
+    justify-content: right
+    
+}
+.right2{
+    width: 250px;
+}
+
+.right3{
+
+
+
+}
+
+
+.side{
+    font-size: larger;
+    font-weight: bold;
+}
+
+body{
+    background-image: url(../Images/Blur-Background-XVII-SplitShire.jpg);
+    background-size: cover;
+}

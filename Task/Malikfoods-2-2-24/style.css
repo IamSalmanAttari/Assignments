@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+}
+body{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bg{
+    background-image: url(./images/White-Chicken-Karahi-Recipe-with-Cream.jpg);
+    height: 100vh;
+    background-size: cover ;
+    
+   
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.nav{
+
+    background-color:whitesmoke;
+    display: flex;
+    list-style: none;
+    width: 70%;
+    margin: auto;
+    
+    justify-content: center;
+    justify-content: space-around;
+    padding: 12px;
+    border-radius: 10px;
+   position: relative;
+   top: 85px;
+   font-weight: bold;
+
+}
+
+
+.logo{
+    border-radius: 20px;
+    position: absolute;
+    top:50px;
+    z-index: 1;
+    left: 180px;
+    width: 13%;
+}
+
+.text{
+    text-align: center;
+    position: relative;
+    top: 13em;
+    color: white;
+   
+    
+}
+
+.text h1{
+    font-size: 6rem;
+   
+}
+
+.text h3{
+     font-size: 2rem;
+}
+
+.text p{
+ font-weight: bold;
+}
+
+/* .card-1{
+    height: 400px;
+} */
+
+.card{
+    margin-top: 15px;
+    margin-right: 10px;
+}
+.cardimg{
+    float: left;
+    width: 30%;
+    margin: 20px 20px 0px 50px ;
+}
+.cardimg img{
+    width: 100%;
+    height: 700px;
+    border-radius: 10px;
+
+}
+.card-img-top{
+    height: 250px;
+    width: 100%;
+}
+
+.main{
+    
+    margin-right: 40px;
+}
+
+.text1{
+ position: relative;
+    bottom: 41em;
+padding-left: 9em;
+    color:whitesmoke;
+    
+}
+
+button{
+
+    background-color: orangered;
+    border: none;
+    border-radius: 10px;
+    padding: 3px 20px;
+    color: whitesmoke;
+}
+ li:hover{
+    transform: scale(1.2);
+ }
+
+ button:hover{
+    transform: scale(1.2);
+ }
+
+ .go{
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: -3em;
+ }

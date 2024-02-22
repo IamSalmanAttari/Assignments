@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  display: flex;
+  list-style: none;
+  background-color: aqua;
+  padding: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: x-large;
+  justify-content: space-around;
+  position: sticky;
+}
+
+.main {
+  background-image: url(./Images/813534-background-simple-tumblr-3000x2000-for-lockscreen.jpg);
+  height: 400px;
+  display: flex;
+  align-items: center;
+  color: aliceblue;
+}
+
+.left {
+  font-size: xx-large;
+  width: 60rem;
+  border: 1px solid;
+  margin: 50px;
+  box-shadow: 15px 15px 20px yellowgreen;
+}
+
+.right {
+  font-size: xx-large;
+  width: 60rem;
+  border: 1px solid white;
+  margin: 50px;
+  box-shadow: 15px 15px 20px yellow;
+}

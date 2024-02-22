@@ -1,0 +1,102 @@
+*{
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: #f0f2f5;
+}
+
+.container{
+       background-color: #f0f2f5;
+    margin-top: 130px;
+}
+
+.row{
+    background-color: #f0f2f5;
+}
+
+h1{
+    color: #0866ff;
+  font-size: 65px;
+  font-weight: bolder;
+  letter-spacing: -2px;
+}
+
+#para{
+    font-size: xx-large;
+    line-height: 30px;
+}
+
+.col1{
+    padding: 60px;
+    
+}
+
+.col2{
+    margin-left: 0px;
+    line-height: 15px;
+}
+
+.card-body{
+    background-color: #fff;
+    border-radius: 50px;
+}
+
+.input1{
+    height: 50px;
+}
+
+#pass{
+    text-decoration: none;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    color: #0866ff;
+    
+}
+
+.btn11{
+    height: 50px;
+    width: 100%;
+    font-size: x-large;
+}
+
+.btn22{
+    height: 50px;
+    background-color: #36a420;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.btn22:hover{
+    background-color:#36a420 ;
+    border:none;
+    
+}
+
+#pass:hover{
+    text-decoration: underline;
+}
+
+#bold{
+    font-weight: bold;
+}
+
+.btn33{
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+#abcd{
+    display: flex;
+    justify-content: center;
+}
+
+.footer1{
+    background-color: #fff; !important
+}  
+
+.card{
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.164);
+}
+

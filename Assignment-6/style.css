@@ -1,0 +1,24 @@
+*{
+    margin: auto;
+
+.aa1 {
+
+    background-color: #04383f;color: azure;
+    text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 30%;
+}
+    
+#id1 {
+    width: 40%;
+}
+h2 {
+    color:  #04383f;color;
+}
+.aa22 {text-align: center;}
+
+a{
+font-size: larger;
+color: black;
+font-weight: bolder;
+text-decoration: none;
+}

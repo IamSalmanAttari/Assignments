@@ -1,0 +1,301 @@
+
+body{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+}
+a{
+    position: absolute;
+    bottom: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.main{
+    border: 1px solid black;
+    width: 40%;
+    height: 508px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0%;
+    margin: auto;
+    /* justify-content: space-around; */
+    /* margin: 50px auto; */
+    /* display: inline-block; */
+    
+}
+
+.greenbox{
+    border: 1px solid black;
+    width: 39%;
+    height: 200px; 
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.whitegreen{
+    border: 1px solid white;
+    width: 60%;
+    height: 120px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+padding: 8px;
+    
+}
+
+.smallgreen{
+    width: 30%;
+    height: 40px;
+    border: 1px solid green;
+    background-color: green;
+    padding: 2px;
+    
+}
+
+.smallgreen:hover{
+    transform: scale(1.1);
+    transition: 5ms;
+}
+
+.mainsmalltop{
+   width:  20.2% ;
+   background-color: white;
+   height: 200px;
+   border: 1px solid black;
+   display: flex;
+   flex-wrap: wrap;
+   
+}
+
+.smalltop{
+    border: 1px solid black;
+    width: 31.5%;
+}
+
+.yellow{
+    background-color: rgb(231, 231, 0);
+}
+
+
+.righttop{
+width: 40%;
+    display: flex;
+
+ float: left;
+    
+    
+    
+}
+
+.yellowbox{
+    border: 1px solid black;
+    width: 100%;
+    height: 200px; 
+    background-color: rgb(231, 231, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.whiteyellow{
+    border: 1px solid white;
+    width: 60%;
+    height: 120px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+padding: 8px;
+    
+}
+
+.smallyellow{
+    width: 30%;
+    height: 40px;
+    border: 1px solid rgb(231, 231, 0);
+    background-color: rgb(231, 231, 0);
+    padding: 2px;
+}
+.smallyellow:hover{
+    transform: scale(1.1);
+    transition: 5ms;
+}
+
+.mainsmallleft{
+    width:  39.4% ;
+    background-color: white;
+    height: 20.2%;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;  
+ }
+
+ .smallleft{
+    border: 1px solid black;
+    width: 15.72%;
+    height: 31.px;
+}
+
+.green{
+    background-color: green;
+}
+
+.center{
+    width: 19.5%;
+    border: 1px solid black;
+}
+
+.tri{
+    width: 0px;
+    height: 0px;
+    background-color: pink;
+    border-top: 51px solid rgb(231, 231, 0) ;
+    border-right: 54px solid blue ;
+    border-bottom: 52px solid red ;
+    border-left: 51px solid green ;
+
+}
+ 
+ .mainsmallright{
+    width:  39.95% ;
+    background-color: white;
+    height: 20.2%;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    
+ }
+ .smallright{
+    border: 1px solid black;
+    width: 15.74%;
+    height: 31.px;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.redbox{
+    border: 1px solid black;
+    width: 39%;
+    height: 200px; 
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.whitered{
+    border: 1px solid white;
+    width: 60%;
+    height: 120px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+padding: 8px;
+    
+}
+
+.smallred{
+    width: 30%;
+    height: 40px;
+    border: 1px solid red;
+    background-color: red;
+    padding: 2px;
+    
+}
+
+.smallred:hover{
+    transform: scale(1.1);
+    transition: 5ms;
+}
+
+
+.mainsmallbottom{
+    width:  20.2% ;
+    background-color: white;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    
+ }
+ 
+ .smallbottom{
+     border: 1px solid black;
+     width: 31.5%;
+ }
+ 
+ .red{
+    background-color: red;
+ }
+
+ .bluebox{
+    border: 1px solid black;
+    width: 39.6%;
+    height: 200px; 
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.whiteblue{
+    border: 1px solid white;
+    width: 60%;
+    height: 120px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+padding: 8px;
+    
+}
+
+.smallblue{
+    width: 30%;
+    height: 40px;
+    border: 1px solid blue;
+    background-color: blue;
+    padding: 2px;
+    
+}
+
+.smallblue:hover{
+    transform: scale(1.1);
+    transition: 5ms;
+}
+
+.yellow:hover{
+    transform: scale(1.2);
+    transition: 5ms;
+}.red:hover{
+    transform: scale(1.2);
+    transition: 5ms;
+}.green:hover{
+    transform: scale(1.2);
+    transition: 5ms;
+}.blue:hover{
+    transform: scale(1.2);
+    transition: 5ms;
+}

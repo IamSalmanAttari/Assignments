@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: ;
+}
+
+.nav {
+  background-color: rgb(80, 80, 80);
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  justify-content: space-around;
+  align-items: start;
+  list-style: none;
+  height: 50px;
+  width: 95%;
+  margin: auto;
+  position: relative;
+  top: 30px;
+}
+
+.header {
+  background-image: url(./Images/nature-blur-background-fwdf0ix2r6azpidx.jpg);
+  background-size: cover;
+  height: 600px;
+}
+
+.menu {
+  background-color: rgba(0, 0, 0, 0.692);
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.text {
+  font-size: 80rem; !important
+  font-weight: bolder;
+  position: absolute;
+
+  right: 35rem;
+  top: 17rem;
+  color: rgb(255, 255, 255);
+}
+.text h2 {
+  position: relative;
+  left: 100px;
+  font-size: 50px !important;
+}
+.text h1 {
+    font-size: 70px !important;
+}
+
+.center {
+  margin: 50px;
+}
+
+li:hover {
+  color: red;
+  cursor: pointer;
+}
+
+#tee{
+    fon
+}
